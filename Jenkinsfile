@@ -1,7 +1,7 @@
 pipeline {
     agent any
     tools {
-        maven "C:\DevTools\apache-maven-3.9.4"
+        maven "MAVEN"
         jdk "JAVA_HOME"
     }
 
